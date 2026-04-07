@@ -1,0 +1,9 @@
+# WordPress
+upgrade/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large media - track with Git LFS if needed
+# uploads/

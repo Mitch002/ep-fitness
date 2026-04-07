@@ -1,0 +1,999 @@
+/* ============================================================
+   EP FITNESS — Global Styles
+   Navy + White + Blue | Premium Performance Brand
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap');
+
+/* ── CSS Custom Properties ── */
+:root {
+	--ep-navy:         #0F172A;
+	--ep-dark-navy:    #1E293B;
+	--ep-slate:        #334155;
+	--ep-blue:         #3B82F6;
+	--ep-blue-light:   #60A5FA;
+	--ep-blue-dark:    #2563EB;
+	--ep-white:        #FFFFFF;
+	--ep-off-white:    #F8FAFC;
+	--ep-light:        #F3F4F6;
+	--ep-border:       #E5E7EB;
+	--ep-text:         #374151;
+	--ep-text-muted:   #6B7280;
+	--ep-font-display: 'Barlow Condensed', sans-serif;
+	--ep-font-body:    'DM Sans', sans-serif;
+	--ep-transition:   0.25s cubic-bezier(0.4, 0, 0.2, 1);
+	--ep-shadow:       0 4px 24px rgba(15, 23, 42, 0.08);
+	--ep-shadow-lg:    0 12px 48px rgba(15, 23, 42, 0.14);
+}
+
+/* ── Base ── */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+	background-color: var(--ep-white);
+	color: var(--ep-text);
+	font-family: var(--ep-font-body);
+	-webkit-font-smoothing: antialiased;
+}
+
+/* ── Typography ── */
+h1, h2, h3, h4, h5 {
+	font-family: var(--ep-font-display);
+	text-transform: uppercase;
+	line-height: 1;
+	color: var(--ep-navy);
+}
+
+h6 {
+	font-family: var(--ep-font-body);
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-size: 0.75rem;
+	color: var(--ep-blue);
+}
+
+p { line-height: 1.75; color: var(--ep-text); }
+
+a { color: var(--ep-blue); text-decoration: none; transition: color var(--ep-transition); }
+a:hover { color: var(--ep-blue-dark); }
+
+/* ── Site Header ── */
+.ep-site-header {
+	position: sticky !important;
+	top: 0 !important;
+	z-index: 200 !important;
+	background-color: var(--ep-navy) !important;
+	border-bottom: 1px solid rgba(255,255,255,0.06);
+	transition: box-shadow var(--ep-transition);
+}
+
+.ep-site-header.scrolled {
+	box-shadow: 0 4px 32px rgba(15, 23, 42, 0.5);
+}
+
+/* Logo sizing */
+.ep-logo img {
+	width: 150px !important;
+	height: auto !important;
+	display: block;
+}
+
+/* ── Navigation ── */
+.ep-primary-nav .wp-block-navigation__container {
+	gap: 0;
+	align-items: center;
+}
+
+.ep-primary-nav .wp-block-navigation-item__content,
+.ep-primary-nav a {
+	color: rgba(255, 255, 255, 0.85) !important;
+	font-family: var(--ep-font-display) !important;
+	font-weight: 600 !important;
+	font-size: 0.95rem !important;
+	text-transform: uppercase !important;
+	letter-spacing: 0.08em !important;
+	padding: 0.5rem 1rem !important;
+	position: relative;
+	transition: color var(--ep-transition) !important;
+}
+
+.ep-primary-nav .wp-block-navigation-item__content:hover,
+.ep-primary-nav a:hover {
+	color: #FFFFFF !important;
+}
+
+/* Active underline indicator */
+.ep-primary-nav .wp-block-navigation-item__content::after {
+	content: '';
+	position: absolute;
+	bottom: -2px; left: 1rem; right: 1rem;
+	height: 2px;
+	background: var(--ep-blue);
+	transform: scaleX(0);
+	transition: transform var(--ep-transition);
+}
+
+.ep-primary-nav .wp-block-navigation-item__content:hover::after,
+.ep-primary-nav .current-menu-item .wp-block-navigation-item__content::after {
+	transform: scaleX(1);
+}
+
+/* Dropdown */
+.ep-primary-nav .wp-block-navigation__submenu-container {
+	background-color: var(--ep-navy) !important;
+	border: 1px solid rgba(255,255,255,0.1) !important;
+	border-top: 2px solid var(--ep-blue) !important;
+	min-width: 230px;
+	padding: 0.5rem 0 !important;
+	box-shadow: 0 12px 40px rgba(15,23,42,0.4) !important;
+}
+
+.ep-primary-nav .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
+	padding: 0.55rem 1.25rem !important;
+	font-size: 0.875rem !important;
+}
+
+.ep-primary-nav .wp-block-navigation__submenu-container .wp-block-navigation-item__content:hover {
+	background-color: rgba(255,255,255,0.06) !important;
+	color: var(--ep-blue-light) !important;
+}
+
+/* Header CTA button */
+.ep-header-cta-wrap .wp-block-button__link {
+	background-color: var(--ep-blue) !important;
+	color: #FFFFFF !important;
+	font-family: var(--ep-font-display) !important;
+	font-weight: 700 !important;
+	font-size: 0.9rem !important;
+	text-transform: uppercase !important;
+	letter-spacing: 0.08em !important;
+	border-radius: 0 !important;
+	border: none !important;
+	transition: background-color var(--ep-transition), transform var(--ep-transition) !important;
+}
+
+.ep-header-cta-wrap .wp-block-button__link:hover {
+	background-color: var(--ep-blue-dark) !important;
+	transform: translateY(-1px);
+}
+
+/* ── Buttons (global) ── */
+.wp-block-button__link,
+.wp-element-button {
+	font-family: var(--ep-font-display) !important;
+	font-weight: 700 !important;
+	font-size: 1.05rem !important;
+	text-transform: uppercase !important;
+	letter-spacing: 0.1em !important;
+	border-radius: 0 !important;
+	transition: transform var(--ep-transition), background-color var(--ep-transition), box-shadow var(--ep-transition) !important;
+}
+
+.wp-block-button__link:hover,
+.wp-element-button:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 28px rgba(59, 130, 246, 0.35) !important;
+}
+
+/* Blue primary button */
+.has-ep-orange-background-color.wp-block-button__link,
+.wp-block-button__link[style*="#FF4800"],
+.wp-block-button__link[style*="#3B82F6"] {
+	background-color: var(--ep-blue) !important;
+	color: #FFFFFF !important;
+}
+
+.has-ep-orange-background-color.wp-block-button__link:hover,
+.wp-block-button__link[style*="#3B82F6"]:hover {
+	background-color: var(--ep-blue-dark) !important;
+}
+
+/* Ghost button */
+.ep-btn-ghost .wp-block-button__link {
+	background-color: transparent !important;
+	color: var(--ep-navy) !important;
+	border: 2px solid var(--ep-navy) !important;
+}
+
+.ep-btn-ghost .wp-block-button__link:hover {
+	border-color: var(--ep-blue) !important;
+	color: var(--ep-blue) !important;
+}
+
+/* Ghost on dark backgrounds */
+.wp-block-cover .ep-btn-ghost .wp-block-button__link {
+	color: #FFFFFF !important;
+	border-color: rgba(255,255,255,0.6) !important;
+}
+
+.wp-block-cover .ep-btn-ghost .wp-block-button__link:hover {
+	border-color: var(--ep-blue-light) !important;
+	color: var(--ep-blue-light) !important;
+}
+
+/* ── Hero / Cover blocks ── */
+.wp-block-cover {
+	min-height: 85vh;
+}
+
+.wp-block-cover.ep-page-hero-cover {
+	min-height: 48vh;
+}
+
+/* Hero overlays use navy */
+.wp-block-cover .wp-block-cover__background {
+	background-color: var(--ep-navy) !important;
+}
+
+/* ── Premium gradient sections (replaces flat image backgrounds) ── */
+.wp-block-cover.ep-gradient-dark {
+	position: relative;
+	overflow: hidden;
+}
+.wp-block-cover.ep-gradient-dark .wp-block-cover__background {
+	background: linear-gradient(
+		135deg,
+		#070E1A 0%,
+		#0F172A 25%,
+		#162B4A 55%,
+		#1a3357 75%,
+		#0F172A 100%
+	) !important;
+	background-color: unset !important;
+}
+/* Electric-blue top accent line */
+.wp-block-cover.ep-gradient-dark::before {
+	content: '';
+	position: absolute;
+	top: 0; left: 0; right: 0;
+	height: 3px;
+	background: linear-gradient(90deg, transparent 0%, #3B82F6 40%, #60A5FA 60%, transparent 100%);
+	z-index: 20;
+}
+/* Subtle diagonal light-ray behind content */
+.wp-block-cover.ep-gradient-dark::after {
+	content: '';
+	position: absolute;
+	top: -20%;
+	right: -10%;
+	width: 55%;
+	height: 140%;
+	background: linear-gradient(
+		170deg,
+		transparent 30%,
+		rgba(59, 130, 246, 0.06) 50%,
+		transparent 70%
+	);
+	pointer-events: none;
+	z-index: 1;
+}
+.wp-block-cover.ep-gradient-dark .wp-block-cover__inner-container {
+	position: relative;
+	z-index: 5;
+}
+
+/* Hero text always white */
+.wp-block-cover h1,
+.wp-block-cover h2,
+.wp-block-cover h3,
+.wp-block-cover h4,
+.wp-block-cover h5,
+.wp-block-cover h6,
+.wp-block-cover p {
+	color: inherit;
+}
+
+.wp-block-cover h1 { color: #FFFFFF !important; }
+.wp-block-cover h2 { color: #FFFFFF !important; }
+
+/* Blue accent text spans inside hero headings */
+.wp-block-cover h1 span[style*="#FF4800"],
+.wp-block-cover h2 span[style*="#FF4800"] {
+	color: var(--ep-blue-light) !important;
+}
+
+/* ── Stats Bar ── */
+.ep-stats-bar {
+	background-color: var(--ep-blue) !important;
+}
+
+.ep-stats-bar .wp-block-heading,
+.ep-stats-bar h2 {
+	color: #FFFFFF !important;
+}
+
+/* ── Service Cards ── */
+.ep-service-card {
+	background-color: var(--ep-white) !important;
+	border: 1px solid rgba(15,23,42,0.1) !important;
+	border-top: 3px solid var(--ep-blue) !important;
+	padding: clamp(2rem, 4vw, 2.5rem);
+	position: relative;
+	overflow: hidden;
+	transition: transform var(--ep-transition), border-color var(--ep-transition), box-shadow var(--ep-transition);
+	box-shadow: var(--ep-shadow);
+}
+
+.ep-service-card::before {
+	content: '';
+	position: absolute;
+	top: 0; left: 0; right: 0;
+	height: 3px;
+	background: var(--ep-blue);
+	transform: scaleX(0);
+	transform-origin: left;
+	transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.ep-service-card:hover {
+	transform: translateY(-6px);
+	border-color: var(--ep-blue) !important;
+	box-shadow: var(--ep-shadow-lg);
+}
+
+.ep-service-card:hover::before {
+	transform: scaleX(1);
+}
+
+/* Force light styles on service card text */
+.ep-service-card h3,
+.ep-service-card h4 {
+	color: var(--ep-navy) !important;
+}
+
+.ep-service-card p {
+	color: var(--ep-text) !important;
+}
+
+/* ── Location Cards ── */
+.ep-location-card {
+	background-color: var(--ep-off-white) !important;
+	border: 1px solid rgba(15,23,42,0.1) !important;
+	border-top: 3px solid var(--ep-blue) !important;
+	padding: 2rem;
+	transition: transform var(--ep-transition), border-color var(--ep-transition), box-shadow var(--ep-transition);
+	box-shadow: var(--ep-shadow);
+}
+
+.ep-location-card:hover {
+	transform: translateY(-5px);
+	border-color: var(--ep-blue) !important;
+	border-top-color: var(--ep-blue) !important;
+	box-shadow: var(--ep-shadow-lg);
+}
+
+.ep-location-card .ep-location-name,
+.ep-location-card h3 {
+	color: var(--ep-navy) !important;
+}
+
+.ep-location-card p {
+	color: var(--ep-text-muted) !important;
+}
+
+/* ── Dark section text — ensure light text on navy/dark-navy backgrounds ── */
+.wp-block-group.has-ep-black-background-color h1,
+.wp-block-group.has-ep-black-background-color h2,
+.wp-block-group.has-ep-black-background-color h3,
+.wp-block-group.has-ep-black-background-color h4,
+.wp-block-group.has-ep-black-background-color h5,
+.wp-block-group.has-ep-dark-background-color h1,
+.wp-block-group.has-ep-dark-background-color h2,
+.wp-block-group.has-ep-dark-background-color h3,
+.wp-block-group.has-ep-dark-background-color h4,
+.wp-block-group.has-ep-dark-background-color h5 {
+	color: #FFFFFF !important;
+}
+
+.wp-block-group.has-ep-black-background-color p,
+.wp-block-group.has-ep-dark-background-color p {
+	color: rgba(255,255,255,0.8) !important;
+}
+
+.wp-block-group.has-ep-black-background-color h6,
+.wp-block-group.has-ep-dark-background-color h6 {
+	color: var(--ep-blue-light) !important;
+}
+
+/* Keep accent color spans blue */
+span[style*="color:#FF4800"],
+span[style*="color:#3B82F6"] {
+	color: var(--ep-blue) !important;
+}
+
+/* ── CTA Banner ── */
+.ep-cta-banner {
+	background-color: var(--ep-light) !important;
+	border-top: 1px solid var(--ep-border);
+	border-bottom: 1px solid var(--ep-border);
+	position: relative;
+	overflow: hidden;
+}
+
+.ep-cta-banner::before {
+	content: 'EP';
+	position: absolute;
+	right: -2rem; top: 50%;
+	transform: translateY(-50%);
+	font-family: var(--ep-font-display);
+	font-weight: 900;
+	font-size: 20rem;
+	color: rgba(59, 130, 246, 0.05);
+	line-height: 1;
+	pointer-events: none;
+	user-select: none;
+}
+
+.ep-cta-banner h2 { color: var(--ep-navy) !important; }
+.ep-cta-banner p { color: var(--ep-text) !important; }
+
+/* ── Team Cards ── */
+.ep-team-card {
+	background-color: var(--ep-white) !important;
+	border: 1px solid var(--ep-border) !important;
+	padding: 2.5rem 2rem;
+	text-align: center;
+	box-shadow: var(--ep-shadow);
+	transition: transform var(--ep-transition), box-shadow var(--ep-transition);
+}
+
+.ep-team-card:hover {
+	transform: translateY(-5px);
+	box-shadow: var(--ep-shadow-lg);
+}
+
+.ep-team-card h3 { color: var(--ep-navy) !important; }
+.ep-team-card p { color: var(--ep-text) !important; }
+.ep-team-role { color: var(--ep-blue) !important; }
+
+/* ── About mission quote block ── */
+.wp-block-group[style*="border-left-color:#FF4800"],
+.wp-block-group[style*="border-left-color:#3B82F6"] {
+	border-left-color: var(--ep-blue) !important;
+	background-color: var(--ep-light) !important;
+}
+
+/* ── Location detail info card ── */
+.ep-location-card .wp-block-group,
+.wp-block-group[style*="background-color:#1A1A1A"],
+.wp-block-group[style*="background-color:#0D0D0D"] {
+	background-color: var(--ep-white) !important;
+	border-color: var(--ep-border) !important;
+}
+
+/* Text inside info cards */
+.wp-block-group[style*="background-color:#1A1A1A"] p,
+.wp-block-group[style*="background-color:#0D0D0D"] p {
+	color: var(--ep-text) !important;
+}
+
+.wp-block-group[style*="background-color:#1A1A1A"] h5,
+.wp-block-group[style*="background-color:#0D0D0D"] h5 {
+	color: var(--ep-navy) !important;
+}
+
+/* Separators in cards → light border */
+.wp-block-group[style*="background-color:#1A1A1A"] .wp-block-separator,
+.wp-block-group[style*="background-color:#0D0D0D"] .wp-block-separator {
+	border-color: var(--ep-border) !important;
+}
+
+/* ── Contact form styling ── */
+.ep-contact-form input,
+.ep-contact-form select,
+.ep-contact-form textarea {
+	background-color: var(--ep-white) !important;
+	border-color: var(--ep-border) !important;
+	color: var(--ep-text) !important;
+}
+
+.ep-contact-form input:focus,
+.ep-contact-form select:focus,
+.ep-contact-form textarea:focus {
+	border-color: var(--ep-blue) !important;
+	outline: none;
+	box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.ep-contact-form button[type="submit"] {
+	background-color: var(--ep-blue) !important;
+}
+
+.ep-contact-form button[type="submit"]:hover {
+	background-color: var(--ep-blue-dark) !important;
+}
+
+/* ── Footer ── */
+.ep-site-footer {
+	background-color: var(--ep-navy) !important;
+	border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.ep-footer-list a {
+	color: rgba(255,255,255,0.75) !important;
+	transition: color var(--ep-transition), padding-left var(--ep-transition);
+	display: inline-block;
+}
+
+.ep-footer-list a:hover {
+	color: var(--ep-blue-light) !important;
+	padding-left: 0.5rem;
+}
+
+.ep-footer-divider {
+	border-color: rgba(255,255,255,0.1) !important;
+	margin: 0 !important;
+}
+
+.ep-site-footer p { color: rgba(255,255,255,0.75) !important; }
+.ep-site-footer h1,
+.ep-site-footer h2,
+.ep-site-footer h3,
+.ep-site-footer h4,
+.ep-site-footer h5 { color: rgba(255,255,255,0.85) !important; }
+.ep-site-footer h6 { color: var(--ep-blue-light) !important; }
+.ep-footer-tagline { color: rgba(255,255,255,0.75) !important; }
+.ep-footer-list li { color: rgba(255,255,255,0.65); }
+
+.ep-site-footer a[href^="tel"],
+.ep-site-footer a[href^="mailto"] {
+	color: var(--ep-blue-light) !important;
+}
+
+/* ── Diagonal clip sections ── */
+.ep-diagonal-bottom {
+	clip-path: polygon(0 0, 100% 0, 100% 93%, 0 100%);
+	padding-bottom: clamp(5rem, 10vw, 10rem) !important;
+}
+
+.ep-diagonal-top {
+	clip-path: polygon(0 7%, 100% 0, 100% 100%, 0 100%);
+	padding-top: clamp(5rem, 10vw, 10rem) !important;
+	margin-top: -3rem;
+}
+
+.ep-diagonal-both {
+	clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
+	padding-top: clamp(5rem, 10vw, 10rem) !important;
+	padding-bottom: clamp(5rem, 10vw, 10rem) !important;
+	margin-top: -2rem;
+}
+
+/* ── Checklist ── */
+.ep-checklist {
+	list-style: none !important;
+	padding: 0 !important;
+}
+
+.ep-checklist li {
+	padding: 0.65rem 0;
+	padding-left: 2rem;
+	position: relative;
+	border-bottom: 1px solid var(--ep-border);
+	color: var(--ep-text);
+}
+
+.ep-checklist li::before {
+	content: '→';
+	position: absolute;
+	left: 0;
+	color: var(--ep-blue);
+	font-weight: 700;
+}
+
+/* Checklist on dark backgrounds (inside cover blocks) */
+.wp-block-cover .ep-checklist li {
+	color: rgba(255,255,255,0.9) !important;
+	border-bottom-color: rgba(255,255,255,0.15) !important;
+}
+
+.wp-block-cover .ep-checklist li::before {
+	color: var(--ep-blue-light) !important;
+}
+
+/* ── Block spacing (replaces invalid spacing.margin block attrs) ── */
+
+/* Service card internal spacing */
+.ep-service-card > p:first-child  { margin-bottom: 1rem !important; }
+.ep-service-card h3                { margin-top: 0 !important; margin-bottom: 0.75rem !important; }
+.ep-service-card > p               { margin-bottom: 1.25rem; }
+
+/* Location card internal spacing */
+.ep-location-card h3               { margin-top: 0 !important; margin-bottom: 0.5rem !important; }
+.ep-location-card > p              { margin-bottom: 1.25rem; }
+
+/* Team card internal spacing */
+.ep-team-card h3                   { margin-top: 0.75rem !important; margin-bottom: 0.25rem !important; }
+
+/* Cover section paragraph top gap */
+.wp-block-cover p                  { margin-top: 1.25rem; }
+.wp-block-cover p:first-child      { margin-top: 0; }
+
+/* Section heading label (h6) bottom gap */
+.wp-block-group > .wp-block-heading[style*="0.75rem"],
+.wp-block-cover > * > .wp-block-heading { margin-bottom: 0.75rem; }
+
+/* Section h2 bottom gap */
+.wp-block-group > h2.wp-block-heading { margin-bottom: 2.5rem; }
+
+/* ── Separator overrides ── */
+.wp-block-separator {
+	border-color: var(--ep-border) !important;
+}
+
+/* ── Scroll animations ── */
+@keyframes ep-slide-up {
+	from { opacity: 0; transform: translateY(40px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+.ep-animate-up { animation: ep-slide-up 0.7s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.ep-animate-up-delay-1 { animation-delay: 0.1s; }
+.ep-animate-up-delay-2 { animation-delay: 0.2s; }
+.ep-animate-up-delay-3 { animation-delay: 0.3s; }
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+	.ep-diagonal-bottom,
+	.ep-diagonal-top,
+	.ep-diagonal-both { clip-path: none; margin-top: 0; }
+
+	.ep-header-cta-wrap { display: none; }
+	.wp-block-cover { min-height: 70vh; }
+}
+
+/* ── Admin bar ── */
+.admin-bar .ep-site-header { top: 32px !important; }
+@media screen and (max-width: 782px) {
+	.admin-bar .ep-site-header { top: 46px !important; }
+}
+
+/* ── Block editor ── */
+.editor-styles-wrapper {
+	background-color: var(--ep-white) !important;
+	color: var(--ep-text) !important;
+	font-family: var(--ep-font-body) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   MARKETING COMPONENTS
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── Eyebrow label with accent bar ── */
+.ep-eyebrow {
+	display: flex !important;
+	align-items: center;
+	gap: 0.75rem;
+	margin-bottom: 0.5rem;
+}
+.ep-eyebrow::before {
+	content: '';
+	display: block;
+	width: 28px;
+	height: 3px;
+	background: var(--ep-blue);
+	flex-shrink: 0;
+}
+.wp-block-cover .ep-eyebrow::before {
+	background: var(--ep-blue-light);
+}
+
+/* ── Testimonial Cards ── */
+.ep-testimonial-card {
+	background: #fff;
+	border: 1px solid var(--ep-border);
+	border-left: 4px solid var(--ep-blue);
+	padding: 2rem 2rem 1.5rem;
+	box-shadow: var(--ep-shadow);
+	position: relative;
+	transition: transform var(--ep-transition), box-shadow var(--ep-transition);
+}
+.ep-testimonial-card:hover {
+	transform: translateY(-4px);
+	box-shadow: var(--ep-shadow-lg);
+}
+.ep-testimonial-card::before {
+	content: '\201C';
+	position: absolute;
+	top: -0.4rem;
+	left: 1.5rem;
+	font-family: var(--ep-font-display);
+	font-size: 5rem;
+	font-weight: 900;
+	color: var(--ep-blue);
+	opacity: 0.12;
+	line-height: 1;
+	pointer-events: none;
+}
+.ep-testimonial-card p {
+	font-style: italic;
+	color: var(--ep-text) !important;
+	font-size: 0.975rem;
+	line-height: 1.75;
+}
+.ep-testimonial-name {
+	font-family: var(--ep-font-display) !important;
+	font-weight: 700 !important;
+	font-size: 0.9rem !important;
+	text-transform: uppercase;
+	color: var(--ep-navy) !important;
+	letter-spacing: 0.06em;
+	margin: 0 !important;
+	font-style: normal;
+}
+.ep-testimonial-meta {
+	font-size: 0.78rem !important;
+	color: var(--ep-text-muted) !important;
+	margin: 0.1rem 0 0 !important;
+	font-style: normal;
+}
+.ep-testimonial-attribution {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	margin-top: 1.25rem;
+	padding-top: 1rem;
+	border-top: 1px solid var(--ep-border);
+}
+.ep-testimonial-avatar {
+	width: 44px;
+	height: 44px;
+	min-width: 44px;
+	border-radius: 50%;
+	background-color: var(--ep-blue);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: var(--ep-font-display);
+	font-weight: 800;
+	font-size: 1.05rem;
+	color: #fff !important;
+}
+.ep-testimonial-avatar p {
+	color: #fff !important;
+	margin: 0 !important;
+	line-height: 1;
+	font-style: normal;
+	font-size: 1.05rem !important;
+}
+
+/* Dark testimonials section */
+.ep-testimonials-dark {
+	background: linear-gradient(135deg, #070E1A 0%, #0F172A 40%, #162B4A 100%);
+	position: relative;
+	overflow: hidden;
+}
+.ep-testimonials-dark::before {
+	content: '';
+	position: absolute;
+	top: 0; left: 0; right: 0;
+	height: 3px;
+	background: linear-gradient(90deg, transparent, var(--ep-blue), transparent);
+	z-index: 10;
+}
+.ep-testimonials-dark .ep-testimonial-card {
+	background-color: rgba(255,255,255,0.04) !important;
+	border-color: rgba(255,255,255,0.08) !important;
+	border-left-color: var(--ep-blue) !important;
+}
+.ep-testimonials-dark .ep-testimonial-card p {
+	color: rgba(255,255,255,0.82) !important;
+}
+.ep-testimonials-dark .ep-testimonial-attribution {
+	border-top-color: rgba(255,255,255,0.1);
+}
+.ep-testimonials-dark .ep-testimonial-name {
+	color: #FFFFFF !important;
+}
+.ep-testimonials-dark .ep-testimonial-meta {
+	color: rgba(255,255,255,0.4) !important;
+}
+.ep-testimonials-dark .ep-testimonial-card::before {
+	color: var(--ep-blue-light);
+	opacity: 0.18;
+}
+
+/* ── Process Steps ── */
+.ep-process-section {
+	background-color: var(--ep-light);
+	position: relative;
+	overflow: hidden;
+}
+.ep-process-step {
+	background: #fff;
+	border: 1px solid var(--ep-border);
+	padding: 2.25rem 2rem 2rem;
+	position: relative;
+	box-shadow: var(--ep-shadow);
+	transition: transform var(--ep-transition), box-shadow var(--ep-transition);
+	border-top: 3px solid transparent;
+}
+.ep-process-step:hover {
+	transform: translateY(-4px);
+	box-shadow: var(--ep-shadow-lg);
+	border-top-color: var(--ep-blue);
+}
+.ep-process-step-number {
+	font-family: var(--ep-font-display);
+	font-weight: 900;
+	font-size: 4rem;
+	line-height: 1;
+	color: rgba(59, 130, 246, 0.09);
+	position: absolute;
+	top: 0.5rem;
+	right: 1rem;
+	letter-spacing: -0.04em;
+	pointer-events: none;
+	margin: 0 !important;
+	font-style: normal !important;
+}
+.ep-process-step h4 {
+	color: var(--ep-navy) !important;
+	position: relative;
+	z-index: 1;
+}
+.ep-process-step p:not(.ep-process-step-number) {
+	color: var(--ep-text) !important;
+	font-size: 0.93rem;
+	position: relative;
+	z-index: 1;
+}
+
+/* ── Philosophy Pillars (About page) ── */
+.ep-pillar-card {
+	padding: 2.25rem 1.75rem;
+	border-top: 3px solid var(--ep-blue);
+	background: #fff;
+	box-shadow: var(--ep-shadow);
+	transition: transform var(--ep-transition), box-shadow var(--ep-transition);
+	position: relative;
+	overflow: hidden;
+}
+.ep-pillar-card:hover {
+	transform: translateY(-5px);
+	box-shadow: var(--ep-shadow-lg);
+}
+.ep-pillar-number {
+	font-family: var(--ep-font-display);
+	font-weight: 900;
+	font-size: 3.5rem;
+	line-height: 1;
+	color: rgba(59, 130, 246, 0.08);
+	letter-spacing: -0.04em;
+	display: block;
+	margin-bottom: 0.5rem;
+	margin-top: 0 !important;
+}
+.ep-pillar-card h4 {
+	color: var(--ep-navy) !important;
+	margin-bottom: 0.75rem !important;
+}
+.ep-pillar-card p {
+	color: var(--ep-text) !important;
+	font-size: 0.95rem;
+}
+
+/* ── Hours Card (Location pages) ── */
+.ep-hours-card {
+	background-color: var(--ep-navy);
+	padding: 1.5rem 1.75rem;
+	margin-top: 1.75rem;
+}
+.ep-hours-card h5 {
+	color: rgba(255,255,255,0.5) !important;
+	font-size: 0.7rem !important;
+	letter-spacing: 0.14em;
+	margin-bottom: 0.85rem !important;
+}
+.ep-hours-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.45rem 0;
+	border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+.ep-hours-row:last-child { border-bottom: none; }
+.ep-hours-day {
+	color: rgba(255,255,255,0.38);
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	font-size: 0.74rem;
+}
+.ep-hours-time {
+	color: rgba(255,255,255,0.82);
+	font-size: 0.875rem;
+	font-weight: 500;
+}
+
+/* ── Value Prop Strip (Contact page) ── */
+.ep-value-strip {
+	background-color: var(--ep-off-white);
+	border-bottom: 1px solid var(--ep-border);
+}
+.ep-value-strip .wp-block-column {
+	text-align: center;
+	padding: 2.25rem 1.5rem !important;
+	border-right: 1px solid var(--ep-border);
+}
+.ep-value-strip .wp-block-column:last-child { border-right: none; }
+.ep-value-strip h4 {
+	color: var(--ep-navy) !important;
+	font-size: 1rem !important;
+	margin: 0 0 0.3rem !important;
+}
+.ep-value-strip p {
+	color: var(--ep-text-muted) !important;
+	font-size: 0.85rem;
+	margin: 0 !important;
+}
+.ep-value-icon {
+	font-size: 1.75rem;
+	display: block;
+	margin: 0 auto 0.6rem;
+}
+
+/* ── Service card number labels ── */
+.ep-service-number {
+	display: inline-block;
+	font-family: var(--ep-font-display);
+	font-weight: 900;
+	font-size: 0.7rem;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+	color: var(--ep-blue);
+	background-color: rgba(59, 130, 246, 0.08);
+	padding: 0.3rem 0.65rem;
+	margin-bottom: 1rem;
+}
+
+/* ── "For list" bullets on service pages ── */
+.ep-for-list {
+	list-style: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.ep-for-list li {
+	padding: 0.65rem 0 0.65rem 2rem;
+	position: relative;
+	border-bottom: 1px solid var(--ep-border);
+	color: var(--ep-text);
+	font-size: 0.975rem;
+}
+.ep-for-list li:first-child { border-top: 1px solid var(--ep-border); }
+.ep-for-list li::before {
+	content: '✓';
+	position: absolute;
+	left: 0;
+	top: 0.65rem;
+	color: var(--ep-blue);
+	font-weight: 700;
+	font-size: 0.9rem;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   EDITOR STYLES
+   ═══════════════════════════════════════════════════════════ */
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4 {
+	font-family: var(--ep-font-display) !important;
+	text-transform: uppercase;
+	color: var(--ep-navy) !important;
+}
+
+/* ── Map embed ── */
+.ep-map-embed {
+	margin-top: 1.75rem;
+	overflow: hidden;
+	border: 1px solid var(--ep-border);
+}
+.ep-map-embed iframe {
+	display: block;
+	width: 100%;
+	height: 360px;
+	border: 0;
+}
