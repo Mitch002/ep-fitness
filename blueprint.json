@@ -6,14 +6,108 @@
 	},
 	"steps": [
 		{
-			"step": "installTheme",
-			"themeData": {
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/themes/ep-fitness"
+		},
+		{
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/themes/ep-fitness/assets/css"
+		},
+		{
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/themes/ep-fitness/assets/js"
+		},
+		{
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/themes/ep-fitness/parts"
+		},
+		{
+			"step": "mkdir",
+			"path": "/wordpress/wp-content/themes/ep-fitness/templates"
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/style.css",
+			"data": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/ep-fitness-theme.zip"
-			},
-			"options": {
-				"activate": true
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/style.css"
 			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/theme.json",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/theme.json"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/functions.php",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/functions.php"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/assets/css/global.css",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/assets/css/global.css"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/assets/js/main.js",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/assets/js/main.js"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/parts/header.html",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/parts/header.html"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/parts/footer.html",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/parts/footer.html"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/templates/front-page.html",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/templates/front-page.html"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/templates/page.html",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/templates/page.html"
+			}
+		},
+		{
+			"step": "writeFile",
+			"path": "/wordpress/wp-content/themes/ep-fitness/templates/index.html",
+			"data": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Mitch002/ep-fitness/main/themes/ep-fitness/templates/index.html"
+			}
+		},
+		{
+			"step": "activateTheme",
+			"themeFolderName": "ep-fitness"
 		},
 		{
 			"step": "importWxr",
