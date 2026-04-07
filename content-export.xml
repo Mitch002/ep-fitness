@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <title>EP Fitness</title>
+    <link>http://ep-fitness.local</link>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>http://ep-fitness.local</wp:base_site_url>
+    <wp:base_blog_url>http://ep-fitness.local</wp:base_blog_url>
+    <item>
+        <title>EP_FitnessPersonalTraining_Icon-white</title>
+        <link>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/EP_FitnessPersonalTraining_Icon-white.webp</link>
+        <pubDate>2026-04-02 11:06:47</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <wp:post_id>35</wp:post_id>
+        <wp:post_date>2026-04-02 11:06:47</wp:post_date>
+        <wp:post_name>ep_fitnesspersonaltraining_icon-white</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:attachment_url>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/EP_FitnessPersonalTraining_Icon-white.webp</wp:attachment_url>
+    </item>
+    <item>
+        <title>2025-06-11 (7) (1)</title>
+        <link>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2025-06-11-7-1.webp</link>
+        <pubDate>2026-04-02 11:08:05</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <wp:post_id>36</wp:post_id>
+        <wp:post_date>2026-04-02 11:08:05</wp:post_date>
+        <wp:post_name>2025-06-11-7-1</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:attachment_url>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2025-06-11-7-1.webp</wp:attachment_url>
+    </item>
+    <item>
+        <title>IMG_7424</title>
+        <link>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/IMG_7424.jpg</link>
+        <pubDate>2026-04-02 11:08:07</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <wp:post_id>37</wp:post_id>
+        <wp:post_date>2026-04-02 11:08:07</wp:post_date>
+        <wp:post_name>img_7424</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:attachment_url>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/IMG_7424.jpg</wp:attachment_url>
+    </item>
+    <item>
+        <title>2024-07-23 (3)</title>
+        <link>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2024-07-23-3.webp</link>
+        <pubDate>2026-04-02 11:08:20</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <wp:post_id>38</wp:post_id>
+        <wp:post_date>2026-04-02 11:08:20</wp:post_date>
+        <wp:post_name>2024-07-23-3</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:attachment_url>https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2024-07-23-3.webp</wp:attachment_url>
+    </item>
+    <item>
+        <title>About</title>
+        <link>http://ep-fitness.local/?p=13</link>
+        <pubDate>2026-04-02 11:03:41</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#0F172A","customOverlayColor":"#0F172A","dimRatio":100, "overlayColor": "black", "minHeight": 60, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-gradient-dark ep-page-hero-cover" style="min-height:60vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Our Story</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">BUILT FOR<br><span style="color:#60A5FA">RESULTS.</span></h1>
+<!-- /wp:heading -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "55%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Who We Are</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">MORE THAN<br><span style="color:#3B82F6">JUST A GYM.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">EP Fitness Personal Training is Wichita's premier personal training company, serving the metro area across 3 locations. We specialize in 1-on-1 and semi-private personal training for adults who want real, lasting results.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">Our coaches are passionate, certified, and dedicated to your success. Every member gets a fully customized program built around their goals, schedule, and fitness level ? with consistent coaching every step of the way.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Today</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "45%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:45%">
+<!-- wp:image {"id": 36, "sizeSlug": "large", "linkDestination": "none"} -->
+<figure class="wp-block-image size-large"></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"style": {"color": {"background": "#F3F4F6"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#F3F4F6;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Our Philosophy</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">THE EP FITNESS<br><span style="color:#3B82F6">DIFFERENCE.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className": "ep-pillars-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-pillars-cols">
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-pillar-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-pillar-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:paragraph {"className":"ep-pillar-number"} -->
+<p class="ep-pillar-number">01</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">REAL COACHES</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">Every EP coach is a certified professional who has studied your program before your first session. No rotation, no substitutes.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-pillar-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-pillar-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:paragraph {"className":"ep-pillar-number"} -->
+<p class="ep-pillar-number">02</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">REAL PLANS</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">No templates. Every program is built from scratch around your body composition, goals, and weekly availability.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-pillar-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-pillar-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:paragraph {"className":"ep-pillar-number"} -->
+<p class="ep-pillar-number">03</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">REAL RESULTS</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">We measure everything ? body comp, strength benchmarks, habits. Because accountability without data is just hope.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Meet The Team</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">YOUR COACHES.<br><span style="color:#3B82F6">YOUR CHAMPIONS.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className": "ep-team-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-team-cols">
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-team-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-team-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">COACH CODY WEBER</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ep-team-role","style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="ep-team-role has-text-color" style="color:#6B7280;font-size:0.85rem">Founder & Head Coach</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.8rem"}}} -->
+<p class="has-text-color" style="color:#3B82F6;font-size:0.8rem">NASM-CPT ú Precision Nutrition L1 ú 10+ yrs</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">Wichita's most sought-after personal trainer. Coach Cody built EP Fitness around one belief: every person deserves a real coach, a real plan, and real results ? not a generic template.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-team-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-team-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">COACH LILLIAN</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ep-team-role","style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="ep-team-role has-text-color" style="color:#6B7280;font-size:0.85rem">Performance Coach</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.8rem"}}} -->
+<p class="has-text-color" style="color:#3B82F6;font-size:0.8rem">FMS Certified ú Corrective Exercise Specialist</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">Specializes in functional movement, injury prevention, and building long-term sustainable fitness habits for busy professionals.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:group {"className":"ep-team-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-team-card is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"800"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:800">COACH THOMAS</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ep-team-role","style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="ep-team-role has-text-color" style="color:#6B7280;font-size:0.85rem">Strength & Conditioning</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.8rem"}}} -->
+<p class="has-text-color" style="color:#3B82F6;font-size:0.8rem">CSCS ú Sports Performance Specialist</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">Expert in strength and conditioning, sports performance, and helping clients break through plateaus with science-backed programming.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">READY TO JOIN<br><span style="color:#60A5FA">THE EP FAMILY?</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>13</wp:post_id>
+        <wp:post_date>2026-04-02 11:03:41</wp:post_date>
+        <wp:post_name>about</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Contact</title>
+        <link>http://ep-fitness.local/?p=14</link>
+        <pubDate>2026-04-02 11:03:42</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#0F172A","dimRatio":100, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-gradient-dark ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Get In Touch</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">CONTACT<br><span style="color:#60A5FA">US.</span></h1>
+<!-- /wp:heading -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"className":"ep-value-strip","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-value-strip is-layout-constrained wp-block-group-is-layout-constrained">
+<!-- wp:columns {"isStackedOnMobile": false} -->
+<div class="wp-block-columns is-not-stacked-on-mobile is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:paragraph {"className":"ep-value-icon"} -->
+<p class="ep-value-icon">?</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:800">FREE CONSULTATION</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">A 30-minute strategy session at no cost</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:paragraph {"className":"ep-value-icon"} -->
+<p class="ep-value-icon">?</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:800">24HR RESPONSE</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">We get back to you the same business day</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<!-- wp:paragraph {"className":"ep-value-icon"} -->
+<p class="ep-value-icon">?</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:800">NO COMMITMENT</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">No contracts. Start when you're ready.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(4rem,8vw,7rem)", "bottom": "clamp(4rem,8vw,7rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(4rem,8vw,7rem);padding-bottom:clamp(4rem,8vw,7rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "55%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Reach Out</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2rem,4vw,3rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2rem,4vw,3rem);font-weight:800">LET'S BUILD YOUR<br><span style="color:#3B82F6">PROGRAM.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">Ready to start? Fill out the form or reach us directly. We'll get back to you within 24 hours to schedule your free consultation and build a custom program around your goals.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"className":"ep-contact-info-box","style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"1.5rem","right":"1.5rem"}},"color":{"background":"#F3F4F6"},"border":{"left":{"color":"#3B82F6","width":"4px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-contact-info-box has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#F3F4F6;padding:2rem 1.5rem;border-left:4px solid #3B82F6">
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Phone:</strong> <a href="tel:3163159190" style="color:#3B82F6">(316) 315-9190</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Email:</strong> <a href="mailto:coachweber@epathlete.com" style="color:#3B82F6">coachweber@epathlete.com</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Locations:</strong> Andover ú Maize ú East Wichita</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "45%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:45%">
+<!-- wp:shortcode -->
+[lc_form id='5ng22bigdiwqMETvFPGU' title='EP Fitness - Landing Page - New Form' ]
+<!-- /wp:shortcode -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+        <wp:post_id>14</wp:post_id>
+        <wp:post_date>2026-04-02 11:03:42</wp:post_date>
+        <wp:post_name>contact</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>1-on-1 Personal Training</title>
+        <link>http://ep-fitness.local/?p=15</link>
+        <pubDate>2026-04-02 11:03:43</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"id": 36, "url": "/wp-content/uploads/2025-06-11-7-1.webp", "dimRatio": 55, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim"></span>
+<img class="wp-block-cover__image-background wp-image-36" alt="EP Fitness gym interior" src="/wp-content/uploads/2025-06-11-7-1.webp" data-object-fit="cover"/>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">EP Fitness</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">THE MOST EFFECTIVE WAY<br><span style="color:#60A5FA">TO CHANGE YOUR BODY.</span></h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1.15rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.15rem">One coach. One program. One goal: yours.</p>
+<!-- /wp:paragraph -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "55%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">What Is It</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">1-ON-1 PERSONAL<br><span style="color:#3B82F6">TRAINING.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHO IS IT FOR?</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-for-list"} -->
+<ul class="ep-for-list">
+<!-- wp:list-item -->
+<li>Adults 35+ ready to stop guessing and start progressing</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Beginners who want expert guidance from day one</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Experienced lifters who've plateaued</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Anyone who's failed at generic gym plans or solo work</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Today</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "45%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:45%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHAT'S INCLUDED</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>Comprehensive body composition assessment</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>100% customized training program</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Weekly check-ins with your coach</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Nutrition guidance and meal planning support</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Progress tracking and program adjustments</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Flexible scheduling ? morning, evening, weekends</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>No contracts required</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">READY TO<br><span style="color:#60A5FA">GET STARTED?</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>15</wp:post_id>
+        <wp:post_date>2026-04-02 11:03:43</wp:post_date>
+        <wp:post_name>personal-training</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Semi-Private Training</title>
+        <link>http://ep-fitness.local/?p=16</link>
+        <pubDate>2026-04-02 11:03:45</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"id": 36, "url": "/wp-content/uploads/2025-06-11-7-1.webp", "dimRatio": 55, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim"></span>
+<img class="wp-block-cover__image-background wp-image-36" alt="EP Fitness gym interior" src="/wp-content/uploads/2025-06-11-7-1.webp" data-object-fit="cover"/>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">EP Fitness</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">COACHING. COMMUNITY.<br><span style="color:#60A5FA">ACCOUNTABILITY.</span></h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1.15rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.15rem">Small groups. Personalized programming. Real results.</p>
+<!-- /wp:paragraph -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "55%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">What Is It</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">SEMI-PRIVATE<br><span style="color:#3B82F6">TRAINING.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHO IS IT FOR?</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-for-list"} -->
+<ul class="ep-for-list">
+<!-- wp:list-item -->
+<li>People who thrive with group energy and accountability</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Those looking for quality coaching at a lower price point</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Anyone ready to be part of a small, motivated group</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Those who want community without sacrificing personalization</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Today</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "45%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:45%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHAT'S INCLUDED</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>Small groups ? maximum 6 people per session</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Personalized programming within the group format</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Community energy and accountability</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Coach-supervised every session</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Customized progressions for each member</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Multiple session times available</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>No contracts required</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">READY TO<br><span style="color:#60A5FA">GET STARTED?</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>16</wp:post_id>
+        <wp:post_date>2026-04-02 11:03:45</wp:post_date>
+        <wp:post_name>semi-private-training</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Online Training</title>
+        <link>http://ep-fitness.local/?p=17</link>
+        <pubDate>2026-04-02 11:03:46</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"id": 36, "url": "/wp-content/uploads/2025-06-11-7-1.webp", "dimRatio": 55, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim"></span>
+<img class="wp-block-cover__image-background wp-image-36" alt="EP Fitness gym interior" src="/wp-content/uploads/2025-06-11-7-1.webp" data-object-fit="cover"/>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">EP Fitness</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">EXPERT COACHING.<br><span style="color:#60A5FA">ANYWHERE YOU ARE.</span></h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1.15rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.15rem">Your program. Your schedule. Your coach.</p>
+<!-- /wp:paragraph -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "55%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">What Is It</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">ONLINE<br><span style="color:#3B82F6">TRAINING.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHO IS IT FOR?</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-for-list"} -->
+<ul class="ep-for-list">
+<!-- wp:list-item -->
+<li>Busy professionals who travel frequently</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>People outside the Wichita metro who want EP coaching</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Those who prefer training at home or a gym of their choice</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Anyone who wants expert programming without scheduling constraints</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Today</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "45%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:45%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.1rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.1rem;font-weight:700">WHAT'S INCLUDED</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>Fully customized training program</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Delivered via easy-to-use training app</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Regular check-ins via video or messaging</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Nutrition coaching and guidance</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Form review via video submission</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Program updated every 4-6 weeks</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>No contracts required</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">READY TO<br><span style="color:#60A5FA">GET STARTED?</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>17</wp:post_id>
+        <wp:post_date>2026-04-02 11:03:46</wp:post_date>
+        <wp:post_name>online-training</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Locations</title>
+        <link>http://ep-fitness.local/?p=18</link>
+        <pubDate>2026-04-02 11:04:01</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:paragraph --><p>Choose your nearest EP Fitness location.</p><!-- /wp:paragraph -->]]></content:encoded>
+        <wp:post_id>18</wp:post_id>
+        <wp:post_date>2026-04-02 11:04:01</wp:post_date>
+        <wp:post_name>locations</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Andover</title>
+        <link>http://ep-fitness.local/?p=19</link>
+        <pubDate>2026-04-02 11:04:23</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#0F172A","dimRatio":100, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-gradient-dark ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">TRAIN AT EP FITNESS<br><span style="color:#60A5FA">ANDOVER.</span></h1>
+<!-- /wp:heading -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location Details</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">EP FITNESS<br><span style="color:#3B82F6">ANDOVER.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">Our Andover location serves the fastest-growing community in the metro. Located on N Andover Rd, we train members from Andover, Augusta, and surrounding areas.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Address:</strong> 618 N Andover Rd, Andover, KS 67002</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Phone:</strong> <a href="tel:3163159190" style="color:#3B82F6">(316) 315-9190</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Email:</strong> <a href="mailto:coachweber@epathlete.com" style="color:#3B82F6">coachweber@epathlete.com</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<div class="ep-map-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6313.991070730695!2d-97.1338693!3d37.6963039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87baff2088c9ce29%3A0xf81b188104405342!2sEP%20Fitness!5e0!3m2!1sen!2sus!4v1775235011446!5m2!1sen!2sus" width="600" height="450" style="border:0;width:100%;height:360px;display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!-- /wp:html -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Here</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:700">SERVICES AVAILABLE</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>1-on-1 Personal Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Semi-Private Training (max 6)</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Online Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Body Composition Assessment</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Nutrition Coaching</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">TRAIN IN<br><span style="color:#60A5FA">ANDOVER.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>19</wp:post_id>
+        <wp:post_date>2026-04-02 11:04:23</wp:post_date>
+        <wp:post_name>andover</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>18</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Maize</title>
+        <link>http://ep-fitness.local/?p=20</link>
+        <pubDate>2026-04-02 11:04:24</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#0F172A","dimRatio":100, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-gradient-dark ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">TRAIN AT EP FITNESS<br><span style="color:#60A5FA">MAIZE.</span></h1>
+<!-- /wp:heading -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location Details</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">EP FITNESS<br><span style="color:#3B82F6">MAIZE.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">The Maize location sits in northwest Wichita ? a short drive from Goddard, Colwich, and the northwest side. Private facility, focused training environment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Address:</strong> Maize, Kansas ? Wichita Metro Area</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Phone:</strong> <a href="tel:3163159190" style="color:#3B82F6">(316) 315-9190</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Email:</strong> <a href="mailto:coachweber@epathlete.com" style="color:#3B82F6">coachweber@epathlete.com</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<div class="ep-map-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3155.7721909023785!2d-97.4280331!3d37.7250248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae19e13c0b5e7%3A0xc73f2a1895cfe118!2sEP%20Fitness%20%26%20Personal%20Training%20Maize!5e0!3m2!1sen!2sus!4v1775235036370!5m2!1sen!2sus" width="600" height="450" style="border:0;width:100%;height:360px;display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!-- /wp:html -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Here</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:700">SERVICES AVAILABLE</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>1-on-1 Personal Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Semi-Private Training (max 6)</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Online Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Body Composition Assessment</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Nutrition Coaching</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">TRAIN IN<br><span style="color:#60A5FA">MAIZE.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>20</wp:post_id>
+        <wp:post_date>2026-04-02 11:04:24</wp:post_date>
+        <wp:post_name>maize</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>18</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>East Wichita</title>
+        <link>http://ep-fitness.local/?p=22</link>
+        <pubDate>2026-04-02 11:04:27</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#0F172A","dimRatio":100, "overlayColor": "black", "minHeight": 55, "minHeightUnit": "vh", "className": "ep-page-hero-cover", "style": {"spacing": {"padding": {"top": "8rem", "bottom": "8rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover ep-gradient-dark ep-page-hero-cover" style="min-height:55vh;padding-top:8rem;padding-bottom:8rem">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;line-height:1.05;letter-spacing:-0.02em">TRAIN AT EP FITNESS<br><span style="color:#60A5FA">EAST WICHITA.</span></h1>
+<!-- /wp:heading -->
+</div>
+</div>
+<!-- /wp:cover -->
+<!-- wp:group {"style": {"color": {"background": "#FFFFFF"}, "spacing": {"padding": {"top": "clamp(5rem, 10vw, 8rem)", "bottom": "clamp(5rem, 10vw, 8rem)", "left": "2rem", "right": "2rem"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(5rem, 10vw, 8rem);padding-bottom:clamp(5rem, 10vw, 8rem)">
+<!-- wp:columns {} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex">
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Location Details</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">EP FITNESS<br><span style="color:#3B82F6">EAST WICHITA.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">Located on W 21st St N, our East Wichita facility is central to the metro. Easy access from central Wichita, Derby, and the south side.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Address:</strong> 7348 W 21st St N #124, Wichita, KS 67205</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Phone:</strong> <a href="tel:3163159190" style="color:#3B82F6">(316) 315-9190</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem"><strong>Email:</strong> <a href="mailto:coachweber@epathlete.com" style="color:#3B82F6">coachweber@epathlete.com</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:html -->
+<div class="ep-map-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6311.32488441618!2d-97.21043949999999!3d37.7276005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bafdbc8d423d31%3A0xfd81249ece55ba0e!2sEP%20Fitness%20%26%20Personal%20Training%20Northeast!5e0!3m2!1sen!2sus!4v1775235065426!5m2!1sen!2sus" width="600" height="450" style="border:0;width:100%;height:360px;display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!-- /wp:html -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"flex-start"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Start Training Here</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width": "50%"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.2rem","fontWeight":"700"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.2rem;font-weight:700">SERVICES AVAILABLE</h4>
+<!-- /wp:heading -->
+<!-- wp:list {"className":"ep-checklist"} -->
+<ul class="ep-checklist">
+<!-- wp:list-item -->
+<li>1-on-1 Personal Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Semi-Private Training (max 6)</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Online Training</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Body Composition Assessment</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Nutrition Coaching</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+<!-- wp:cover {"customOverlayColor": "#0F172A", "dimRatio": 100, "style": {"spacing": {"padding": {"top": "clamp(4rem,8vw,6rem)", "bottom": "clamp(4rem,8vw,6rem)"}}}, "layout": {"type": "constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span>
+<div class="wp-block-cover__inner-container is-layout-constrained wp-block-cover-is-layout-constrained">
+<!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Start Today</h6>
+<!-- /wp:heading -->
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"900","letterSpacing":"-0.02em"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,4rem);font-weight:900;letter-spacing:-0.02em">TRAIN IN<br><span style="color:#60A5FA">EAST WICHITA.</span></h2>
+<!-- /wp:heading -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"1rem"}}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="gap:1rem">
+<!-- wp:button {"backgroundColor":false,"textColor":false} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact" style="background-color:#3B82F6;color:#FFFFFF;">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+</div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>22</wp:post_id>
+        <wp:post_date>2026-04-02 11:04:27</wp:post_date>
+        <wp:post_name>east-wichita</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>18</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Sample Page</title>
+        <link>http://ep-fitness.local/?p=2</link>
+        <pubDate>2026-04-02 10:25:42</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<!-- wp:paragraph -->
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<!-- wp:paragraph -->
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://ep-fitness.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+        <wp:post_id>2</wp:post_id>
+        <wp:post_date>2026-04-02 10:25:42</wp:post_date>
+        <wp:post_name>sample-page</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+    <item>
+        <title>Home</title>
+        <link>http://ep-fitness.local/?p=5</link>
+        <pubDate>2026-04-02 10:37:40</pubDate>
+        <dc:creator>admin</dc:creator>
+        <content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2025-06-11-7-1-1024x768.webp","id":36,"dimRatio":55,"customOverlayColor":"#817b71","isUserOverlayColor":false,"minHeight":92,"minHeightUnit":"vh","sizeSlug":"large","className":"ep-hero ep-diagonal-bottom","style":{"spacing":{"padding":{"top":"8rem","bottom":"8rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover ep-hero ep-diagonal-bottom" style="padding-top:8rem;padding-bottom:8rem;min-height:92vh"><img class="wp-block-cover__image-background wp-image-36 size-large" alt="" src="https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/2025-06-11-7-1-1024x768.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-60 has-background-dim" style="background-color:#817b71"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Wichita's Premier Personal Training</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":1,"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(3rem,7vw,5.5rem)","fontWeight":"900","lineHeight":"1.05","letterSpacing":"-0.02em"}}} -->
+<h1 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(3rem,7vw,5.5rem);font-weight:900;letter-spacing:-0.02em;line-height:1.05">TRAIN<br><span style="color:#60A5FA">WITH</span><br>PURPOSE.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1.15rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.15rem">100% customized personal training across 3 Wichita-area locations.<br>Built for adults 35+ who are serious about results.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact">Start Training Today</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="/about">Meet The Team</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained","style":{"color":{"background":"#3B82F6"},"spacing":{"padding":{"top":"clamp(2rem, 4vw, 3rem)","bottom":"clamp(2rem, 4vw, 3rem)","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#3B82F6;padding-top:clamp(2rem, 4vw, 3rem);padding-right:2rem;padding-bottom:clamp(2rem, 4vw, 3rem);padding-left:2rem"><!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-stats-row"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-stats-row"><!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow ep-stat-col"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow ep-stat-col"><!-- wp:paragraph {"className":"ep-stat-number","style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,3.5rem)","fontWeight":"900"}}} -->
+<p class="ep-stat-number has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,3.5rem);font-weight:900">3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ep-stat-label","style":{"color":{"text":"rgba(255,255,255,0.7)"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.1em","textTransform":"uppercase"}}} -->
+<p class="ep-stat-label has-text-color" style="color:rgba(255,255,255,0.7);font-size:0.85rem;letter-spacing:0.1em;text-transform:uppercase">Locations</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow ep-stat-col","style":{"spacing":[]}} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow ep-stat-col"><!-- wp:paragraph {"className":"ep-stat-number","style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,3.5rem)","fontWeight":"900"}}} -->
+<p class="ep-stat-number has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,3.5rem);font-weight:900">10+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ep-stat-label","style":{"color":{"text":"rgba(255,255,255,0.7)"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.1em","textTransform":"uppercase"}}} -->
+<p class="ep-stat-label has-text-color" style="color:rgba(255,255,255,0.7);font-size:0.85rem;letter-spacing:0.1em;text-transform:uppercase">Years Training</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow ep-stat-col","style":{"spacing":[]}} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow ep-stat-col"><!-- wp:paragraph {"className":"ep-stat-number","style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,3.5rem)","fontWeight":"900"}}} -->
+<p class="ep-stat-number has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,3.5rem);font-weight:900">100%</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ep-stat-label","style":{"color":{"text":"rgba(255,255,255,0.7)"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.1em","textTransform":"uppercase"}}} -->
+<p class="ep-stat-label has-text-color" style="color:rgba(255,255,255,0.7);font-size:0.85rem;letter-spacing:0.1em;text-transform:uppercase">Custom Programs</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow ep-stat-col","style":{"spacing":[]}} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow ep-stat-col"><!-- wp:paragraph {"className":"ep-stat-number","style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.5rem,5vw,3.5rem)","fontWeight":"900"}}} -->
+<p class="ep-stat-number has-text-color" style="color:#FFFFFF;font-size:clamp(2.5rem,5vw,3.5rem);font-weight:900">35+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ep-stat-label","style":{"color":{"text":"rgba(255,255,255,0.7)"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.1em","textTransform":"uppercase"}}} -->
+<p class="ep-stat-label has-text-color" style="color:rgba(255,255,255,0.7);font-size:0.85rem;letter-spacing:0.1em;text-transform:uppercase">Age Group Served</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained","style":{"color":{"background":"#F3F4F6"},"spacing":{"padding":{"top":"clamp(5rem, 10vw, 8rem)","bottom":"clamp(5rem, 10vw, 8rem)","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#F3F4F6;padding-top:clamp(5rem, 10vw, 8rem);padding-right:2rem;padding-bottom:clamp(5rem, 10vw, 8rem);padding-left:2rem"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">How We Train</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.5rem,5vw,4rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.5rem,5vw,4rem);font-weight:800">THE WAY TO<br><span style="color:#3B82F6">GET RESULTS</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-services-cols"} -->
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-service-card is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-service-card is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-service-number"} -->
+<p class="ep-service-number">01</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.4rem","fontWeight":"800","letterSpacing":"0.05em"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.4rem;font-weight:800;letter-spacing:0.05em">SEMI-PRIVATE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.95rem">Max 6 per session. Community energy with personalized coaching. The best of both worlds at a competitive price.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/semi-private-training">Learn More ?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/IMG_7424-1024x683.jpg","id":37,"dimRatio":70,"customOverlayColor":"#5e6c53","isUserOverlayColor":false,"sizeSlug":"large","className":"ep-why-cover","style":{"spacing":{"padding":{"top":"clamp(4rem,8vw,7rem)","bottom":"clamp(4rem,8vw,7rem)"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover ep-why-cover" style="padding-top:clamp(4rem,8vw,7rem);padding-bottom:clamp(4rem,8vw,7rem)"><img class="wp-block-cover__image-background wp-image-37 size-large" alt="" src="https://raw.githubusercontent.com/Mitch002/ep-fitness/main/uploads/2026/04/IMG_7424-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim" style="background-color:#5e6c53"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-why-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-why-cols"><!-- wp:column {"width":"60%","className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Why EP Fitness</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2rem,4vw,3rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2rem,4vw,3rem);font-weight:800">YOU'LL <span style="color:#60A5FA">ALWAYS HAVE A COACH.</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1rem">No guesswork. No generic plans. Every EP Fitness member gets a 100% customized program built around their goals, schedule, and fitness level ? with a real coach checking in every step of the way.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%","className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%"><!-- wp:list {"className":"ep-checklist"} -->
+<ul class="wp-block-list ep-checklist"><!-- wp:list-item -->
+<li>Comprehensive body assessment</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>100% custom programming</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Weekly coach check-ins</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Nutrition guidance included</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Progress tracked every session</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Same coach, every session</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>No long-term contracts required</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Free body comp assessment on Day 1</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained ep-testimonials-dark","style":{"color":{"background":"#0F172A"},"spacing":{"padding":{"top":"clamp(5rem, 10vw, 8rem)","bottom":"clamp(5rem, 10vw, 8rem)","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained ep-testimonials-dark has-background" style="background-color:#0F172A;padding-top:clamp(5rem, 10vw, 8rem);padding-right:2rem;padding-bottom:clamp(5rem, 10vw, 8rem);padding-left:2rem"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Real Results</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">Clients Who Showed Up.<br><span style="color:#60A5FA">Results That Speak.</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.65)"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.65);font-size:1rem">These aren't before-and-after photos. These are people who decided to stop starting over ? and finally finished what they started.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-testimonials-cols"} -->
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-testimonial-card is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-testimonial-card is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-testimonial-quote"} -->
+<p class="ep-testimonial-quote">?At 52 I thought my best days were behind me. Twelve months later I'm stronger than I was at 35. The coaches actually listen.?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"ep-testimonial-attribution is-layout-flex wp-block-group-is-layout-flex","layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
+<div class="wp-block-group ep-testimonial-attribution is-layout-flex wp-block-group-is-layout-flex"><!-- wp:group {"className":"ep-testimonial-avatar is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-testimonial-avatar is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"style":{"color":{"text":"#FFFFFF"}}} -->
+<p class="has-text-color" style="color:#FFFFFF">DK</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-testimonial-name"} -->
+<p class="ep-testimonial-name">DIANE K.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ep-testimonial-meta"} -->
+<p class="ep-testimonial-meta">Semi-Private Training ú Maize</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained ep-process-section","style":{"color":{"background":"#F3F4F6"},"spacing":{"padding":{"top":"clamp(5rem, 10vw, 8rem)","bottom":"clamp(5rem, 10vw, 8rem)","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained ep-process-section has-background" style="background-color:#F3F4F6;padding-top:clamp(5rem, 10vw, 8rem);padding-right:2rem;padding-bottom:clamp(5rem, 10vw, 8rem);padding-left:2rem"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Your Journey</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">From Your First Call to<br><span style="color:#3B82F6">Your Best Shape</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:1rem">We've built a simple 4-step system that removes all the guesswork. No trial and error. No generic plans. Just structured progress from day one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-process-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-process-cols"><!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-process-step is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-process-step is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-process-step-number"} -->
+<p class="ep-process-step-number">01</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800">FREE CONSULTATION</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.93rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.93rem">We sit down or hop on a call to understand your goals, history, and schedule. Zero pressure.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-process-step is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-process-step is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-process-step-number"} -->
+<p class="ep-process-step-number">02</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800">CUSTOM PROGRAM</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.93rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.93rem">Your coach builds your first training block around your body, limitations, and timeline. Nothing is a template.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-process-step is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-process-step is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-process-step-number"} -->
+<p class="ep-process-step-number">03</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800">COACHED SESSIONS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.93rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.93rem">Train at one of our three Wichita-area locations. Every rep watched, corrected, and logged.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-process-step is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-process-step is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:paragraph {"className":"ep-process-step-number"} -->
+<p class="ep-process-step-number">04</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800"}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800">WEEKLY ADJUSTMENTS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#374151"},"typography":{"fontSize":"0.93rem"}}} -->
+<p class="has-text-color" style="color:#374151;font-size:0.93rem">Your program evolves with you. Weekly check-ins ensure your plan adapts as you get stronger ? no plateau.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-layout-constrained wp-block-group-is-layout-constrained","style":{"color":{"background":"#FFFFFF"},"spacing":{"padding":{"top":"clamp(4rem,8vw,7rem)","bottom":"clamp(4rem,8vw,7rem)","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained has-background" style="background-color:#FFFFFF;padding-top:clamp(4rem,8vw,7rem);padding-right:2rem;padding-bottom:clamp(4rem,8vw,7rem);padding-left:2rem"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#3B82F6"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#3B82F6;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">Find Your Gym</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.2rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:clamp(2.2rem,4vw,3.2rem);font-weight:800">3 LOCATIONS.<br><span style="color:#3B82F6">ONE COMMUNITY.</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-locations-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-locations-cols"><!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-location-card is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-location-card is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800","letterSpacing":"0.08em"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800;letter-spacing:0.08em">ANDOVER</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#6B7280;font-size:0.95rem">618 N Andover Rd<br>Andover, KS 67002</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/locations/andover">View Location ?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-location-card is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-location-card is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800","letterSpacing":"0.08em"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800;letter-spacing:0.08em">MAIZE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#6B7280;font-size:0.95rem">Maize, Kansas<br>Wichita Metro Area</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/locations/maize">View Location ?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><!-- wp:group {"className":"ep-location-card is-layout-constrained wp-block-group-is-layout-constrained","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ep-location-card is-layout-constrained wp-block-group-is-layout-constrained"><!-- wp:heading {"level":3,"style":{"color":{"text":"#0F172A"},"typography":{"fontSize":"1.3rem","fontWeight":"800","letterSpacing":"0.08em"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#0F172A;font-size:1.3rem;font-weight:800;letter-spacing:0.08em">EAST WICHITA</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#6B7280"},"typography":{"fontSize":"0.95rem"}}} -->
+<p class="has-text-color" style="color:#6B7280;font-size:0.95rem">7348 W 21st St N #124<br>Wichita, KS 67205</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/locations/east-wichita">View Location ?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"customOverlayColor":"#0F172A","style":{"spacing":{"padding":{"top":"clamp(4rem,8vw,6rem)","bottom":"clamp(4rem,8vw,6rem)"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:clamp(4rem,8vw,6rem);padding-bottom:clamp(4rem,8vw,6rem)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#0F172A"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"className":"is-layout-flex wp-block-columns-is-layout-flex ep-cta-cols"} -->
+<div class="wp-block-columns is-layout-flex wp-block-columns-is-layout-flex ep-cta-cols"><!-- wp:column {"width":"60%","className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%"><!-- wp:heading {"level":6,"className":"ep-eyebrow","style":{"color":{"text":"#60A5FA"},"typography":{"fontSize":"0.75rem","fontWeight":"700","letterSpacing":"0.12em","textTransform":"uppercase"}}} -->
+<h6 class="wp-block-heading ep-eyebrow has-text-color" style="color:#60A5FA;font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase">No Contracts. No Intimidation.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"color":{"text":"#FFFFFF"},"typography":{"fontSize":"clamp(2.2rem,4vw,3.5rem)","fontWeight":"800"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#FFFFFF;font-size:clamp(2.2rem,4vw,3.5rem);font-weight:800">READY TO<br><span style="color:#60A5FA">CHANGE YOUR LIFE?</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"rgba(255,255,255,0.8)"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:rgba(255,255,255,0.8);font-size:1rem">Call us at <a href="tel:3163159190" style="color:#60A5FA;font-weight:600">(316) 315-9190</a> or fill out our contact form. We'll build a custom program around your goals, schedule, and fitness level.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%","className":"is-layout-flow wp-block-column-is-layout-flow"} -->
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%"><!-- wp:buttons {"className":"is-layout-flex wp-block-buttons-is-layout-flex","style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact">Get Your Free Consultation</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:3163159190">(316) 315-9190</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
+        <wp:post_id>5</wp:post_id>
+        <wp:post_date>2026-04-02 10:37:40</wp:post_date>
+        <wp:post_name>home</wp:post_name>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+    </item>
+</channel>
+</rss>
